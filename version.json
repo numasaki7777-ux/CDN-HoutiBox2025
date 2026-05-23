@@ -7,7 +7,7 @@
   "maintenance": false,
   "maintenanceMessage": "",
   "featureFlags": [
-    { "key": "diamond_upgrade_missions", "enabled": true }
+    { "key": "diamond_upgrade_missions", "enabled": false}
   ],
   "assetManifestUrl": "https://cdn.jsdelivr.net/gh/numasaki7777-ux/CDN-HoutiBox2025@main/asset_manifest.json",
   "minimumClientApiVersion": 0
