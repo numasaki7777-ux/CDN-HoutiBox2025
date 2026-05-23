@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "minAppVersion": "1.0.0",
-  "latestAppVersion": "1.0.5",
+  "minAppVersion": "1.0.5f6",
+  "latestAppVersion": "1.0.5f6",
   "apiVersion": 1,
   "assetVersion": "2026-05-23-diamond-upgrade-missions-01",
   "maintenance": false,
@@ -10,5 +10,5 @@
     { "key": "diamond_upgrade_missions", "enabled": true}
   ],
   "assetManifestUrl": "https://cdn.jsdelivr.net/gh/numasaki7777-ux/CDN-HoutiBox2025@main/asset_manifest.json",
-  "minimumClientApiVersion": 0
+  "minimumClientApiVersion": 1
 }
