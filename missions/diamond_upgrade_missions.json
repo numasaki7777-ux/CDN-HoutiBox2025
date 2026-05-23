@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "catalogId": "diamond-upgrade-missions-2026-05-23-01",
+  "daily": [
+    {
+      "id": "daily_diamond_upgrade_01",
+      "description": "ダイヤで1回強化する",
+      "goal": 1,
+      "reward": 5
+    }
+  ],
+  "weekly": [
+    {
+      "id": "weekly_diamond_upgrade_05",
+      "description": "ダイヤで5回強化する",
+      "goal": 5,
+      "reward": 25
+    }
+  ],
+  "season": [
+    {
+      "id": "season_diamond_upgrade_20",
+      "description": "ダイヤで20回強化する",
+      "goal": 20,
+      "reward": 120
+    }
+  ],
+  "total": [
+    {
+      "id": "total_diamond_upgrade_50",
+      "description": "累計でダイヤ強化を50回する",
+      "goal": 50,
+      "reward": 300
+    }
+  ]
+}
